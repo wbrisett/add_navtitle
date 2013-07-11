@@ -4,7 +4,7 @@ Required: Ruby
           http://rubyinstaller.org/downloads/     (for Windows) 
           http://www.ruby-lang.org/en/downloads/  (for Linux, Mac OS X, etc.)
           
-Note: Ruby is already installed on \\pavas01.lsi.com
+
 
 About this Script:
 With the testing of trying to move DITA structured topics to local computers, using the extract map instead of extracting individual topics is more enticing. However, when you extract a map and open it in FrameMaker, unless you have manually added the navtitle attribute to each item in a map, then you will only see the v1234.xml names. When a navtitle is added to each item in a map, you see that title instead of the filename. You can individually add navtitle to each topic in the map via Vasont, but I find that a bit tedious. 
